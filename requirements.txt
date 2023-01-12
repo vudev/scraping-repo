@@ -3,7 +3,7 @@ chromedriver_autoinstaller==0.4.0
 feedparser==6.0.10
 Flask==2.0.1
 geopy==2.2.0
-numpy==1.20.1
+numpy
 pandas
 PyVirtualDisplay==3.0
 requests==2.27.1
